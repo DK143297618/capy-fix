@@ -4,7 +4,7 @@
  * 封面解密: https://huangguo.wulii.de5.net
  * 各分类独立模块，首页直接点选，无需在枚举里切换
  */
-var WidgetMetadata = {
+WidgetMetadata = {
   id: "forward.huangguoai.tut",
   title: "黄果",
   version: "1.5.2",
